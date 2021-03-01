@@ -1,0 +1,14 @@
+C:\Users\Kolotyuk\source\repos\Library1\zavd2\bin\Debug\zavd2.exe.config
+C:\Users\Kolotyuk\source\repos\Library1\zavd2\bin\Debug\zavd2.exe
+C:\Users\Kolotyuk\source\repos\Library1\zavd2\bin\Debug\zavd2.pdb
+C:\Users\Kolotyuk\source\repos\Library1\zavd2\obj\Debug\MainWindow.g.cs
+C:\Users\Kolotyuk\source\repos\Library1\zavd2\obj\Debug\App.g.cs
+C:\Users\Kolotyuk\source\repos\Library1\zavd2\obj\Debug\zavd2_MarkupCompile.cache
+C:\Users\Kolotyuk\source\repos\Library1\zavd2\obj\Debug\zavd2_MarkupCompile.lref
+C:\Users\Kolotyuk\source\repos\Library1\zavd2\obj\Debug\MainWindow.baml
+C:\Users\Kolotyuk\source\repos\Library1\zavd2\obj\Debug\zavd2.g.resources
+C:\Users\Kolotyuk\source\repos\Library1\zavd2\obj\Debug\zavd2.Properties.Resources.resources
+C:\Users\Kolotyuk\source\repos\Library1\zavd2\obj\Debug\zavd2.csproj.GenerateResource.cache
+C:\Users\Kolotyuk\source\repos\Library1\zavd2\obj\Debug\zavd2.csproj.CoreCompileInputs.cache
+C:\Users\Kolotyuk\source\repos\Library1\zavd2\obj\Debug\zavd2.exe
+C:\Users\Kolotyuk\source\repos\Library1\zavd2\obj\Debug\zavd2.pdb
