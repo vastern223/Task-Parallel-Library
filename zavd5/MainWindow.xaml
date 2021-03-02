@@ -1,0 +1,57 @@
+﻿<Window x:Class="zavd5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:zavd5"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black" Offset="0"/>
+                <GradientStop Color="#FFE0B7E4" Offset="0.046"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Label Grid.Row="0" Grid.Column="0" Content="select a folder source :" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="19"/>
+        <TextBox Grid.Row="0" Grid.Column="1" Name="analisfolder" Height="28" Width="323" Grid.ColumnSpan="2" VerticalAlignment="Center" FontSize="20" Text="C:\"/>
+        <Button Grid.Row="0" Grid.Column="3"  Content="Open Folder" Height="28" Width="100" Click="Button_Click"/>
+
+        <Label Grid.Row="1" Grid.Column="0" Content="select a folder receiver :" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="19"/>
+        <TextBox Grid.Row="1" Grid.Column="1" Name="destfolder" Height="28" Width="323" Grid.ColumnSpan="2" VerticalAlignment="Center" FontSize="20" Text="C:\"/>
+        <Button Grid.Row="1" Grid.Column="3"  Content="Open Folder" Height="28" Width="100" Click="Button_Click1"/>
+        <Button x:Name="start"  Grid.Row="2" Grid.Column="3"  Content="start" Height="28" Width="100" Background="#FF4AC165" Click="start_Click"/>
+
+
+        <Grid Grid.Row="3" Grid.Column="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+              
+
+
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <TextBlock Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.ColumnSpan="2" FontSize="20" FontWeight="Bold" FontFamily="Yu Gothic UI Light">make a config file</TextBlock>
+            <CheckBox x:Name="CheckBox1" Grid.Row="1" Grid.Column="0" Margin="10,0,10,13" VerticalAlignment="Center" HorizontalAlignment="Center" />
+           
+
+        </Grid>
+
+    </Grid>
+</Window>

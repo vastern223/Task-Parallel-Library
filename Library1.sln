@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zavd2", "zavd2\zavd2.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zavd3", "zavd3\zavd3.csproj", "{FAA748D5-BADA-4268-B4FD-EFB6EE0B08D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zavd4", "zavd4\zavd4.csproj", "{C217384F-9482-4B9D-969A-AB0E1236DDC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zavd5", "zavd5\zavd5.csproj", "{7BB8E2A8-F59F-4FF9-9A14-C9A852C6881C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{FAA748D5-BADA-4268-B4FD-EFB6EE0B08D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAA748D5-BADA-4268-B4FD-EFB6EE0B08D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAA748D5-BADA-4268-B4FD-EFB6EE0B08D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C217384F-9482-4B9D-969A-AB0E1236DDC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C217384F-9482-4B9D-969A-AB0E1236DDC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C217384F-9482-4B9D-969A-AB0E1236DDC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C217384F-9482-4B9D-969A-AB0E1236DDC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BB8E2A8-F59F-4FF9-9A14-C9A852C6881C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB8E2A8-F59F-4FF9-9A14-C9A852C6881C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB8E2A8-F59F-4FF9-9A14-C9A852C6881C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB8E2A8-F59F-4FF9-9A14-C9A852C6881C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
